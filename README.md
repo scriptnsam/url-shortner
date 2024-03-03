@@ -5,4 +5,4 @@ Change the DB username, password and ip address respectively
 
 <h3>Endpoints</h3>
 The root path <code>/</code> with the <code>GET</code> method retrives all created url from the database
-<p>To create a new url, use the <code>/create</code> route with the <code>POST</code></p>
+<p>To create a new url, use the <code>/create</code> route with the <code>POST</code> method</p>
